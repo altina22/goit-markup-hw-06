@@ -554,7 +554,6 @@ li > img {
 .footer-two {
   display: inline-block;
   margin-left: 70px;
-  margin-right: 94px;
 }
 
 .social {
@@ -656,6 +655,9 @@ li > img {
 .footer-field input:focus {
   border-color: var(--text-white);
   outline: none;
+}
+.footer-forma {
+  margin-left: auto;
 }
 
 /*----------------------PORTFOLIO---------------------------*/
